@@ -22,35 +22,31 @@ Link UX (Video Prototype)
 
 https://youtu.be/85oFqgyMks0?si=EKgfIQ9roLB1VOcF
 
-NoteLite – Simple & Fast Note-Taking App
+## NoteLite – Simple & Fast Note-Taking App
 
 NoteLite adalah aplikasi pencatat sederhana berbasis Android yang dirancang untuk memberikan pengalaman mencatat yang cepat, ringan, dan efisien. Aplikasi ini dibuat sebagai bagian dari proyek UTS Pemrograman Mobile dan mengikuti prinsip Material Design 3 sehingga tampilannya modern, bersih, dan mudah digunakan.
 
 Fitur Utama
 1. Tambah Catatan
-
-Pengguna dapat menambahkan catatan baru melalui tampilan Add Note dengan input Title dan Content.
+   
+   Pengguna dapat menambahkan catatan baru melalui tampilan Add Note dengan input Title dan Content.
 
 2. Tampilan Home
-
-Menampilkan daftar catatan tersimpan dalam bentuk list vertikal. Setiap catatan menampilkan judul dan potongan isi untuk mempermudah identifikasi.
+   
+   Menampilkan daftar catatan tersimpan dalam bentuk list vertikal. Setiap catatan menampilkan judul dan potongan isi untuk mempermudah identifikasi.
 
 3. Search Note
-
-Fitur pencarian untuk menemukan catatan berdasarkan kata kunci tertentu.
+   
+   Fitur pencarian untuk menemukan catatan berdasarkan kata kunci tertentu.
 
 4. Menu & Navigasi
+   
+   Menu khusus untuk akses cepat ke fitur tambahan seperti pengaturan atau informasi aplikasi.
 
-Menu khusus untuk akses cepat ke fitur tambahan seperti pengaturan atau informasi aplikasi.
-
-6. Dynamic Splash Screen
-
-Splash screen menampilkan:
-
-Tulisan Hello
-
-Informasi lokasi terkini
-
-Bendera sesuai negara (Indonesia, USA, Jepang, dll.)
-
-Pemilihan bahasa otomatis sesuai locale perangkat
+5. Dynamic Splash Screen
+   
+   Splash screen menampilkan:
+   - Tulisan Hello
+   - Informasi lokasi terkini
+   - Bendera sesuai negara (Indonesia, USA, Jepang, dll.)
+   - Pemilihan bahasa otomatis sesuai locale perangkat

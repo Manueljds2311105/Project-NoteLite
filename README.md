@@ -20,7 +20,9 @@ https://www.figma.com/proto/ompdfSKeVv6k7tWoZEZvVP/Untitled?node-id=70-5349&p=f&
 
 Link UX (Video Prototype)
 
-https://youtu.be/85oFqgyMks0?si=EKgfIQ9roLB1VOcF
+https://youtu.be/85oFqgyMks0?si=EKgfIQ9roLB1VOcF UX Figma
+
+https://youtu.be/H5aYpjsEQ5w?si=0Dbr-Brzsus0am_N UX Hasil Implementasi Android Studio
 
 ## NoteLite – Simple & Fast Note-Taking App
 

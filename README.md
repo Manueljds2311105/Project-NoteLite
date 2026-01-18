@@ -24,7 +24,7 @@ https://youtu.be/85oFqgyMks0?si=EKgfIQ9roLB1VOcF
 
 ## NoteLite – Simple & Fast Note-Taking App
 
-NoteLite adalah aplikasi pencatat sederhana berbasis Android yang dirancang untuk memberikan pengalaman mencatat yang cepat, ringan, dan efisien. Aplikasi ini dibuat sebagai bagian dari proyek UTS Pemrograman Mobile dan mengikuti prinsip Material Design 3 sehingga tampilannya modern, bersih, dan mudah digunakan.
+NoteLite adalah aplikasi pencatat sederhana berbasis Android yang dirancang untuk memberikan pengalaman mencatat yang cepat, ringan, dan efisien. Aplikasi ini dibuat sebagai bagian dari proyek Pemrograman Mobile 1 dan mengikuti prinsip Material Design 3 sehingga tampilannya modern, bersih, dan mudah digunakan.
 
 Fitur Utama
 1. Tambah Catatan

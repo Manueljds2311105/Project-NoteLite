@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Address;
-import android.location.Criteria; // PENTING: Import baru untuk Smart Provider
+import android.location.Criteria; 
 import android.location.Geocoder;
 import android.location.Location;
 import android.location.LocationListener;
@@ -27,7 +27,7 @@ import java.util.Locale;
 
 public class LocationActivity extends AppCompatActivity implements LocationListener {
 
-    // Greeting & Flag tetap manual (Logic Mapping)
+    // Greeting & Flag manual (Logic Mapping)
     String[] greetings = {"Halo", "Halo", "Hello", "สวัสดี", "Kamusta"};
     int[] flags = {
             R.drawable.flag_indonesia,
@@ -57,7 +57,7 @@ public class LocationActivity extends AppCompatActivity implements LocationListe
         }
     }
 
-    // --- BAGIAN INI DIPERBARUI UNTUK MENGATASI LAG FAKE GPS ---
+    
     private void getLocation() {
         locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 
@@ -185,4 +185,5 @@ public class LocationActivity extends AppCompatActivity implements LocationListe
 
         new Handler().postDelayed(this::goToHome, 2000);
     }
+
 }

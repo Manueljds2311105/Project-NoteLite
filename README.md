@@ -58,7 +58,7 @@ penting secara cepat dan efisien.
 -   Menu navigasi aplikasi\
 -   Splash screen dinamis
 
-## 📂 Struktur Project
+## 📂 File Project
 
     Project-NoteLite
     │

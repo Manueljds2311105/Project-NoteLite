@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">NoteLite</string>
+
+    <string name="menu_notes">Catatan</string>
+    <string name="menu_bookmarks">Penanda Buku</string>
+    <string name="menu_archive">Arsip</string>
+    <string name="menu_trash">Sampah</string>
+    <string name="menu_settings">Pengaturan</string>
+
+    <string name="search_hint">Telusuri catatan anda</string>
+    <string name="empty_home">Buat catatan pertama Anda</string>
+    <string name="empty_search">Tidak ada catatan yang cocok</string>
+    <string name="empty_bookmark">Belum ada penanda buku</string>
+    <string name="empty_archive">Arsip kosong</string>
+    <string name="empty_trash">Sampah kosong</string>
+    <string name="trash_disclaimer">Item sampah dihapus otomatis setelah 30 hari</string>
+
+    <string name="hint_title">Judul</string>
+    <string name="hint_content">Catatan</string>
+    <string name="toast_saved">Disimpan</string>
+    <string name="toast_empty">Kosong!</string>
+
+    <string name="dialog_unsaved_title">Simpan Perubahan?</string>
+    <string name="dialog_unsaved_msg">Catatan ini belum disimpan. Mau disimpan dulu sebelum keluar?</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_dont_save">Buang</string>
+    <string name="action_cancel">Batal</string>
+
+    <string name="dialog_trash_title">Kelola Catatan</string>
+    <string name="action_restore">Pulihkan Catatan</string>
+    <string name="action_delete_permanent">Hapus Permanen</string>
+
+    <string name="dialog_delete_confirm_title">Hapus Permanen?</string>
+    <string name="dialog_delete_confirm_msg">Catatan tidak akan bisa kembali.</string>
+    <string name="action_delete">Hapus</string>
+
+    <string name="dialog_move_trash_title">Hapus Catatan?</string>
+    <string name="dialog_move_trash_msg">Catatan akan tersimpan di Sampah selama 30 hari sebelum terhapus permanen.</string>
+
+    <string name="toast_trash_moved">Dipindahkan ke Sampah</string>
+    <string name="toast_restored">Catatan dipulihkan</string>
+    <string name="toast_deleted_permanent">Dihapus Permanen</string>
+    <string name="toast_restore_edit">Pulihkan catatan untuk mengedit</string>
+
+    <string name="settings_title">Pengaturan</string>
+
+    <string name="pref_theme_title">Tampilan</string>
+    <string name="pref_theme_desc">Pilih tema aplikasi</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="theme_system">Ikuti Sistem</string>
+
+    <string name="pref_lang_title">Bahasa</string>
+    <string name="pref_lang_desc">Indonesia</string>
+
+    <string name="pref_about_title">Tentang Aplikasi</string>
+    <string name="pref_about_desc">Versi 1.0.0</string>
+    <string name="about_msg">Aplikasi Catatan Sederhana\n\nDibuat oleh: Manuel Johansen\n\n© 2025 NoteLite App</string>
+    <string name="action_ok">Oke</string>
+
+    <string name="toast_bookmarked">Ditandai</string>
+    <string name="toast_archived">Diarsipkan</string>
+    <string name="toast_unarchived">Dipulihkan dari Arsip</string>
+
+    <string name="toast_permission_denied">Izin lokasi ditolak</string>
+    <string name="location_finding">Mencari lokasi...</string>
+    <string name="location_disabled">Lokasi Nonaktif</string>
+
+    <string name="app_subtitle">Catatan Sederhana</string>
+</resources>

@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <group android:name="trash_bin_body">
+        <path
+            android:fillColor="#455A64"
+            android:pathData="M100,60 m-40,0 a40,10 0 1,0 80,0 a40,10 0 1,0 -80,0" />
+
+        <path
+            android:fillColor="#90A4AE"
+            android:strokeColor="#546E7A"
+            android:strokeWidth="4"
+            android:pathData="M60,60 L140,60 L130,160 Q125,175 100,175 Q75,175 70,160 L60,60 Z" />
+
+        <path
+            android:fillColor="#B0BEC5"
+            android:strokeColor="#546E7A"
+            android:strokeWidth="4"
+            android:pathData="M100,60 m-45,0 a45,12 0 1,0 90,0 a45,12 0 1,0 -90,0" />
+
+        <path
+            android:strokeColor="#78909C"
+            android:strokeWidth="2"
+            android:pathData="M85,75 L90,165 M115,75 L110,165" />
+    </group>
+
+    <group android:name="trash_lid" android:translateY="-30">
+        <path
+            android:fillColor="#78909C"
+            android:strokeColor="#455A64"
+            android:strokeWidth="4"
+            android:pathData="M100,50 m-42,0 a42,10 0 1,0 84,0 a42,10 0 1,0 -84,0" />
+        <path
+            android:fillColor="#455A64"
+            android:pathData="M92,42 L108,42 L108,50 L92,50 Z" />
+    </group>
+
+    <group android:name="sparkles">
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M40,40 L50,30 L60,40 L75,50 L60,60 L50,75 L40,60 L25,50 Z" />
+
+        <path
+            android:fillColor="#FFF176"
+            android:pathData="M160,130 L165,120 L170,130 L180,135 L170,140 L165,150 L160,140 L150,135 Z" />
+
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M150,40 L155,45 L150,50 L145,45 Z" />
+
+        <path
+            android:fillColor="#FFF176"
+            android:pathData="M40,140 L45,145 L40,150 L35,145 Z" />
+    </group>
+</vector>

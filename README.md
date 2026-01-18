@@ -48,5 +48,5 @@ Fitur Utama
    Splash screen menampilkan:
    - Tulisan Hello
    - Informasi lokasi terkini
-   - Bendera sesuai negara (Indonesia, USA, Jepang, dll.)
+   - Bendera sesuai negara (Indonesia, Malaysia, philippines, Thailand, Singapore.)
    - Pemilihan bahasa otomatis sesuai locale perangkat

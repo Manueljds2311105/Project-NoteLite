@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261992186060",
+    "project_id": "notelitedb",
+    "storage_bucket": "notelitedb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261992186060:android:46862366a4e47cff270269",
+        "android_client_info": {
+          "package_name": "com.notelite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDepyzuaiu7H3o9wd0leZVXhHflDfqqsIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

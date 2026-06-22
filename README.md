@@ -16,7 +16,7 @@ https://www.figma.com/design/ompdfSKeVv6k7tWoZEZvVP/Untitled?node-id=0-1&t=M33jD
 https://www.figma.com/proto/ompdfSKeVv6k7tWoZEZvVP/Untitled?node-id=70-5349&p=f&t=Suv3nfGweoWAFyFX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=70%3A5349
 
 **Video Demo / UX:**
-[UX Figma (Video Prototype)](https://youtu.be/85oFqgyMks0?si=EKgfIQ9roLB1VOcF)
+* [UX Figma (Video Prototype)](https://youtu.be/85oFqgyMks0?si=EKgfIQ9roLB1VOcF)
 * [UX Hasil Implementasi Android Studio](https://youtu.be/H5aYpjsEQ5w?si=0Dbr-Brzsus0am_N)
 
 ---

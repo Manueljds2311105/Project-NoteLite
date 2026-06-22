@@ -5,7 +5,6 @@
 **NIM:** 312410493
 
 **Jadwal / SCRUM:**
-
 - **Phase 1:** https://sharing.clickup.com/90181794017/g/h/2kzm1y71-598/9483b8f20001182
 - **Phase 2:** https://sharing.clickup.com/90181794017/g/h/2kzm1y71-638/d4b552bdc352db3
 
@@ -17,7 +16,8 @@ https://www.figma.com/proto/ompdfSKeVv6k7tWoZEZvVP/Untitled?node-id=70-5349&p=f&
 
 **Video Demo / UX:**
 * [UX Figma (Video Prototype)](https://youtu.be/85oFqgyMks0?si=EKgfIQ9roLB1VOcF)
-* [UX Hasil Implementasi Android Studio](https://youtu.be/H5aYpjsEQ5w?si=0Dbr-Brzsus0am_N)
+* [UX Hasil Implementasi Android Studio Phase 1](https://youtu.be/H5aYpjsEQ5w?si=0Dbr-Brzsus0am_N)
+* [UX Hasil Implementasi Android Studio Phase 2](https://youtu.be/H5aYpjsEQ5w?si=0Dbr-Brzsus0am_N)
 
 ---
 

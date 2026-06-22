@@ -60,7 +60,7 @@ public class AddNoteActivity extends AppCompatActivity {
     private boolean isDeleting = false; // FLAG UNTUK DETEKSI BACKSPACE
 
     // !!! API KEY KAMU !!!
-    private final String API_KEY = "AIzaSyBqHfXx1BPfld7AnW_qasRDGFCY0JmZ85I";
+    private final String API_KEY = "API_KEY_Milikmu";
 
     // ====================================================================
     // LAUNCHER UNTUK VOICE TO TEXT

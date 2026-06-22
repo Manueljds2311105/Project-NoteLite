@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="160dp"
+    android:viewportWidth="200"
+    android:viewportHeight="160">
+
+    <group android:name="book_shadow" android:translateY="5">
+        <path
+            android:fillColor="#E0E0E0"
+            android:pathData="M100,155 C140,155 175,165 175,145 L25,145 C25,165 60,155 100,155 Z" />
+    </group>
+
+    <group android:name="open_book">
+        <path
+            android:fillColor="#8D6E63"
+            android:pathData="M100,35 C60,35 20,45 20,65 L20,145 C20,165 60,155 100,155 C140,155 180,165 180,145 L180,65 C180,45 140,35 100,35 Z" />
+
+        <path
+            android:fillColor="#FFF9C4"
+            android:strokeColor="#E6EE9C"
+            android:strokeWidth="1"
+            android:pathData="M100,40 Q30,40 30,60 L30,140 Q30,155 100,155 L100,40 Z" />
+
+        <path
+            android:fillColor="#FFFDE7"
+            android:strokeColor="#FFF59D"
+            android:strokeWidth="1"
+            android:pathData="M100,40 Q170,40 170,60 L170,140 Q170,155 100,155 L100,40 Z" />
+
+        <path
+            android:strokeColor="#DCE775"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:pathData="M100,42 L100,153" />
+    </group>
+
+    <group android:name="bookmark_placeholder">
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#B0BEC5"
+            android:strokeWidth="2"
+            android:pathData="M85,60 L115,60 L115,115 L100,130 L85,115 L85,60 Z" />
+
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#B0BEC5"
+            android:strokeWidth="2"
+            android:pathData="M100,70 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    </group>
+
+</vector>

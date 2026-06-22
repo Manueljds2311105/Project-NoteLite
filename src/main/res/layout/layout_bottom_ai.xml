@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="8dp"
+    android:paddingBottom="16dp"
+    android:background="@color/page_background">
+
+    <!-- GARIS DRAG HANDLE -->
+    <View
+        android:layout_width="40dp"
+        android:layout_height="4dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bg_drag_handle" />
+
+    <!-- Tombol 1: Fix Typo -->
+    <TextView
+        android:id="@+id/menuTypo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="24dp"
+        android:paddingVertical="16dp"
+        android:text="@string/ai_fix_typo"
+        android:textSize="16sp"
+        android:textColor="@color/text_color"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:drawableStart="@drawable/ic_ai_typo"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/text_color" />
+
+    <!-- Tombol 2: Bahasa Formal -->
+    <TextView
+        android:id="@+id/menuFormal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="24dp"
+        android:paddingVertical="16dp"
+        android:text="@string/ai_formal"
+        android:textSize="16sp"
+        android:textColor="@color/text_color"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:drawableStart="@drawable/ic_ai_formal"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/text_color" />
+
+    <!-- Tombol 3: Translate Global -->
+    <TextView
+        android:id="@+id/menuTranslateCustom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="24dp"
+        android:paddingVertical="16dp"
+        android:text="@string/ai_translate_custom"
+        android:textSize="16sp"
+        android:textColor="@color/text_color"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:drawableStart="@drawable/ic_ai_translate"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/text_color" />
+
+    <!-- Tombol 4: Generate Tags -->
+    <TextView
+        android:id="@+id/menuTags"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="24dp"
+        android:paddingVertical="16dp"
+        android:text="@string/ai_tags"
+        android:textSize="16sp"
+        android:textColor="@color/text_color"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:drawableStart="@drawable/ic_ai_tags"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/text_color" />
+
+</LinearLayout>

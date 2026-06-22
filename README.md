@@ -1,10 +1,13 @@
 # Project Pemrograman Mobile
 
 **Nama:** Manuel Johansen Dolok Saribu
+
 **NIM:** 312410493
 
 **Jadwal / SCRUM:**
-https://sharing.clickup.com/90181794017/l/h/6-901812044580-1/353db528294e533
+
+- **Phase 1:** https://sharing.clickup.com/90181794017/g/h/2kzm1y71-598/9483b8f20001182
+- **Phase 2:** https://sharing.clickup.com/90181794017/g/h/2kzm1y71-638/d4b552bdc352db3
 
 **Design Figma:**
 https://www.figma.com/design/ompdfSKeVv6k7tWoZEZvVP/Untitled?node-id=0-1&t=M33jD40kG8aLUsvf-1
@@ -13,7 +16,6 @@ https://www.figma.com/design/ompdfSKeVv6k7tWoZEZvVP/Untitled?node-id=0-1&t=M33jD
 https://www.figma.com/proto/ompdfSKeVv6k7tWoZEZvVP/Untitled?node-id=70-5349&p=f&t=Suv3nfGweoWAFyFX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=70%3A5349
 
 **Video Demo / UX:**
-* [UX Figma (Video Prototype)](https://youtu.be/85oFqgyMks0?si=EKgfIQ9roLB1VOcF)
 * [UX Hasil Implementasi Android Studio](https://youtu.be/H5aYpjsEQ5w?si=0Dbr-Brzsus0am_N)
 
 ---

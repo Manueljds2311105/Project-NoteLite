@@ -1,0 +1,7 @@
+/build
+
+# Mengabaikan file kredensial Firebase
+google-services.json
+
+# Mengabaikan folder release yang berisi file APK hasil build
+/release/

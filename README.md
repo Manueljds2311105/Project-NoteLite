@@ -17,7 +17,7 @@ https://www.figma.com/proto/ompdfSKeVv6k7tWoZEZvVP/Untitled?node-id=70-5349&p=f&
 **Video Demo / UX:**
 * [UX Figma (Video Prototype)](https://youtu.be/85oFqgyMks0?si=EKgfIQ9roLB1VOcF)
 * [UX Hasil Implementasi Android Studio Phase 1](https://youtu.be/H5aYpjsEQ5w?si=0Dbr-Brzsus0am_N)
-* [UX Hasil Implementasi Android Studio Phase 2](https://youtu.be/H5aYpjsEQ5w?si=0Dbr-Brzsus0am_N)
+* [UX Hasil Implementasi Android Studio Phase 2](https://youtube.com/shorts/WLBFeTCFwOQ?si=eFxiTqXtjqa4cg99)
 
 ---
 

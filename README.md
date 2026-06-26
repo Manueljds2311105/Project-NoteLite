@@ -55,6 +55,38 @@ https://www.figma.com/proto/ompdfSKeVv6k7tWoZEZvVP/Untitled?node-id=70-5349&p=f&
 4. **Modern UI & Dark Mode Ready 🌙**
    Antarmuka dibangun dengan Material Vector Assets yang rapi, responsif, dan otomatis menyesuaikan dengan tema gelap (Dark Mode) perangkat.
 
+## 🎨 Dokumentasi Antarmuka Pengguna (UI/UX Keterangan)
+
+Berikut adalah penjelasan fungsi dan elemen antarmuka (UI) dari aplikasi NoteLite berdasarkan rancangan wireframe:
+
+### 1. Main View (Halaman Utama / Dashboard)
+Halaman awal yang muncul saat pengguna membuka aplikasi. Jika belum ada catatan, halaman ini akan menampilkan *Empty State*.
+* **Toolbar / App Bar:** Menampilkan nama aplikasi "NoteLite" di bagian atas.
+* **Hamburger Menu:** Tombol navigasi di pojok kiri atas untuk membuka *Drawer Navigation*.
+* **Search Icon:** Tombol cepat di kanan atas untuk langsung menuju *Search View*.
+* **Illustration Placeholder & Hint Text:** Ruang visual di tengah layar yang menampilkan ilustrasi estetik dan pesan bantuan ("Buat catatan pertama anda") ketika database catatan masih kosong.
+* **FAB (Floating Action Button):** Tombol bulat (+) di pojok kanan bawah yang intuitif untuk menambahkan catatan baru dengan cepat.
+* **Bottom Navigation:** Menu navigasi di bagian paling bawah untuk akses cepat antar fitur utama.
+
+### 2. Add Note View (Halaman Tambah & Edit Catatan)
+Antarmuka tempat pengguna menulis ide, mendiktekan suara, atau menggunakan asisten kecerdasan buatan.
+* **Input Judul & Catatan:** Text field bersih tanpa distrasi untuk memasukkan judul dan isi text catatan.
+* **AI Smart Menu (Bottom Sheet):** Menu melayang dari bawah yang berisi fitur-fitur pintar Gemini AI (Auto-Fix Typo, Format Bahasa Formal, Smart Translate, dan Auto Tags).
+
+### 3. Drawer Navigation View (Menu Samping)
+Menu panel tersembunyi yang dapat ditarik dari sisi kiri layar untuk berpindah kategori atau manajemen file catatan.
+* **Catatan:** Menampilkan seluruh daftar catatan aktif.
+* **Penanda Buku (Bookmarks):** Mengakses catatan-catatan penting yang disematkan.
+* **Arsip (Archive):** Menyimpan catatan lama agar dashboard utama tetap rapi.
+* **Sampah (Trash):** Menampung catatan yang dihapus sebelum dibuang permanen.
+* **Setelan (Settings):** Pengaturan aplikasi (seperti Dark Mode dan konfigurasi sistem).
+
+### 4. Search View (Halaman Pencarian)
+Antarmuka interaktif untuk menyaring dan menemukan data catatan secara cepat.
+* **Dynamic Search Bar:** Kolom pencarian dengan teks panduan "Telusuri catatan anda". Sistem akan menyaring judul atau isi catatan secara *real-time* saat pengguna mengetik.
+
+![NoteLite UI Design](https://github.com/Manueljds2311105/Project-NoteLite/blob/a53ac219a65373f34124bf025345db43dc06aa2e/NoteLite%20Ui%26UX.png)
+
 ## 🛠️ Teknologi yang Digunakan
 
 -   **Bahasa Pemrograman:** Java
